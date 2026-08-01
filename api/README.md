@@ -57,4 +57,4 @@
 ---
 
 ## Скриншоты
-- [Скриншот запроса в Postman](../web/screenshots/api_emailjs_postman.png)
+- [Скриншот запроса в Postman](../web/screenshots/pi_emailjs_postman.png)
