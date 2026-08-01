@@ -57,4 +57,4 @@
 ---
 
 ## Скриншоты
-- [Запрос в Postman](../screenshots/api_postman.png) — добавь скриншот в папку `screenshots/`
+- [Скриншот запроса в Postman](../web/screenshots/api_emailjs_postman.png)
